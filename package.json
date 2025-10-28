@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/supabase-workflow-engine"
+    "url": "https://github.com/krhebbar/supabase-workflow-engine"
   },
   "keywords": [
     "workflow",
@@ -19,7 +19,7 @@
     "state-machine",
     "typescript"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Ravindra Kanchikare (krhebbar)",
   "license": "MIT",
   "scripts": {
     "dev": "tsup --watch",

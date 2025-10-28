@@ -42,3 +42,6 @@ yarn-error.log*
 # Temp files
 *.tmp
 .cache/
+
+# Portfolio tracking (keep private)
+PORTFOLIO_STATUS.md
